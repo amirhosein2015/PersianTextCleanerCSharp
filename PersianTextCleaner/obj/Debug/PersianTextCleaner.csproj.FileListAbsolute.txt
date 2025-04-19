@@ -1,0 +1,14 @@
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\bin\Debug\PersianTextCleaner.exe.config
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\bin\Debug\PersianTextCleaner.exe
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\bin\Debug\PersianTextCleaner.pdb
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.Form1.resources
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.Properties.Resources.resources
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.csproj.GenerateResource.cache
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.csproj.CoreCompileInputs.cache
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.exe
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.pdb
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\bin\Debug\PersianTextCleaner.exe.manifest
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\bin\Debug\PersianTextCleaner.application
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.exe.manifest
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.application
+E:\Ostad kouckaki\PersianTextCleaner\PersianTextCleaner\obj\Debug\PersianTextCleaner.csproj.AssemblyReference.cache
